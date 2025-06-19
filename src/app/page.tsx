@@ -1,4 +1,3 @@
-import Header from '@/components/Header'
 import Hero from '@/components/Hero'
 import EventInfo from '@/components/EventInfo'
 import Features from '@/components/Features'
